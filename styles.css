@@ -3,6 +3,7 @@ body {
 }
 body * {
     display: flex;
+    overflow: hidden;
 }
 body > div {
     position: relative;
